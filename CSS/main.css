@@ -127,16 +127,8 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-section:nth-child(1) {
     color: #adb4bf;
     background: #931f1d;
-}
-
-section:nth-child(2) {
-    color: #a4e9d5;
-    background: #c1aba6;
 }
 
 section .container {
